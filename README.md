@@ -1,1 +1,1 @@
-https://Forkossigan.github.io/you-tube-gh-pages/index
+https://Forkossigan.github.io/you-tube-gh-pages/dist/index
